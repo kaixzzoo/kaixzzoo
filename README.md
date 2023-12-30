@@ -1,7 +1,7 @@
 <!--<h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="Music" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>-->
 <h2>:notes: Music
 </br>
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Tocado recentemente no Spotify" ></a>
+<a href="https://open.spotify.com/track/6PZobAHn3uKmVulYaBFusp"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Tocado recentemente no Spotify" ></a>
 
 
 # 💫 About Me:
