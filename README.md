@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about anything<br>⚡ Fun fact
+📝 I’m currently doing school work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about anything<br>❤️‍🩹 Don't make me hurt
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=700&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;+My+Name+Is+Nadhif+Aslam;I'm+From+Indonesian;I+Study+At+Pionir+School;Thank+You)](https://git.io/typing-svg)
 
