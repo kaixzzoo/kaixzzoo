@@ -33,8 +33,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ndpaslam&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <details>
  <summary><b>Guide on setting up Vercel 🔨 </b></summary>
