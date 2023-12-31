@@ -36,6 +36,26 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ndpaslam&icon=5&color=12)](https://visitcount.itsvg.in)
 
+<details>
+ <summary><b>Guide on setting up Vercel 🔨 </b></summary>
+
+ 1. Go to [vercel.com](https://vercel.com)
+ 1. Click on `Login`  
+   ![](https://files.catbox.moe/tct1wg.png)
+ 1. Sign in with GitHub by pressing `Continue with GitHub`  
+   ![](https://files.catbox.moe/btd78j.jpeg)
+ 1. Sign into GitHub and allow access to all repositories, if prompted
+ 1. Fork this repo
+ 1. Go back to your [Vercel dashboard](https://vercel.com/dashboard)
+ 1. Select `Import Project`  
+   ![](https://i.imgur.com/yzVClIY.png)
+ 1. Select `Import a Git Repository`  
+   ![](https://i.imgur.com/8E96p4U.png)
+ 1. Select root and keep everything as is, just place your LinkedIn cookie called `li_at` as your environment variable named `LINKEDIN_TOKEN` and click `Deploy`
+   ![](https://i.imgur.com/ngBYKat.png)
+ 1. You're good to go. See your domains to use the API!
+</details>
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ndpaslam) 
 
