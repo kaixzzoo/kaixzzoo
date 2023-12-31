@@ -38,9 +38,9 @@
 
 
 <details>
- <summary><b>Guide on setting up Vercel 🔨 </b></summary>
+ <summary><b>Bokep</b></summary>
 
- 1. Go to [vercel.com](https://vercel.com)
+ 1. [jan dipencet](https://hentai)
  1. Click on `Login`  
    ![](https://files.catbox.moe/tct1wg.png)
  1. Sign in with GitHub by pressing `Continue with GitHub`  
